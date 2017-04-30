@@ -1,4 +1,5 @@
-# comment
+# this is not a comment
 Dummy
 projectname=zero
-# this is not comment
+# this is a tag
+# tag
