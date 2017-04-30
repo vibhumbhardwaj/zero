@@ -1,3 +1,4 @@
-# zero
+# comment
 Dummy
 projectname=zero
+
