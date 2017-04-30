@@ -1,2 +1,3 @@
 # zero
 Dummy
+projectname=zero
