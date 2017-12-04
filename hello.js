@@ -1,2 +1,2 @@
-var i = 0;
+var i = 5;
 console.log(i++);
